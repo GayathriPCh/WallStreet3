@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.1.2",
+    "@types/jest": "^29.5.12",
     "@types/node-telegram-bot-api": "^0.64.7",
     "@types/react": "^18.2.23",
     "@types/react-dom": "^18.2.8",
